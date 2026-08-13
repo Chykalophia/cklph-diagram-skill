@@ -1,0 +1,347 @@
+.github/workflows/verify.yml
+  s_df642727960843::t_ce6f86489125c4 1-33
+.gitignore
+  s_df642727960843::t_e688f9669c2ba1 1-24
+FORK-NOTES.md
+  s_df642727960843::t_97c935b6850303 1-180
+LICENSE.upstream
+  s_df642727960843::t_44c5b9e760c29f 1-21
+commands/export-diagram.md
+  s_c3b3640aa7cabe::t_1ad59f44e97515 1-36
+commands/import-drawio.md
+  s_c3b3640aa7cabe::t_fff6da9dd172d5 1-50
+commands/import-mermaid.md
+  s_c3b3640aa7cabe::t_55cc6f2ce6414f 1-50
+prompts/export-diagram.md
+  s_c3b3640aa7cabe::t_35284e6cf20b97 1-31
+prompts/import-mermaid.md
+  s_c3b3640aa7cabe::t_fd77e7896d85dc 1-14
+scripts/brand-tokens.py
+  s_df642727960843::t_01f297df94c6ed 1-11
+scripts/colorlib.py
+  s_df642727960843::t_1467ad3e5bd529 1-11
+scripts/fix-mojibake.py
+  s_df642727960843::t_e970627450031b 1-63
+scripts/lint-a11y.py
+  s_df642727960843::t_29949260ae5492 1-11
+skills/cklph-diagram/SKILL.md
+  s_df642727960843::t_2be3671b8eeedb 1-617
+skills/cklph-diagram/assets/example-architecture-dark.html
+  s_c3b3640aa7cabe::t_f9af77f5236780 1-182
+skills/cklph-diagram/assets/example-architecture-full.html
+  s_c3b3640aa7cabe::t_8d408798312e7c 1-194
+skills/cklph-diagram/assets/example-architecture.html
+  s_c3b3640aa7cabe::t_4a3b44136943ba 1-183
+skills/cklph-diagram/assets/example-bar-dark.html
+  s_c3b3640aa7cabe::t_c3aa6b1aecf2ab 1-129
+skills/cklph-diagram/assets/example-bar-full.html
+  s_c3b3640aa7cabe::t_eb984945651bdd 1-105
+skills/cklph-diagram/assets/example-bar.html
+  s_c3b3640aa7cabe::t_9e264cab06e997 1-129
+skills/cklph-diagram/assets/example-data-flow-dark.html
+  s_c3b3640aa7cabe::t_2828905b76a1ad 1-143
+skills/cklph-diagram/assets/example-data-flow-full.html
+  s_c3b3640aa7cabe::t_8b9b6ba2657823 1-185
+skills/cklph-diagram/assets/example-data-flow.html
+  s_c3b3640aa7cabe::t_ed1fcf3666ee7b 1-143
+skills/cklph-diagram/assets/example-datalake-dark.html
+  s_c3b3640aa7cabe::t_21e4585a73a5f1 1-243
+skills/cklph-diagram/assets/example-datalake-full.html
+  s_c3b3640aa7cabe::t_6b72030a641005 1-248
+skills/cklph-diagram/assets/example-datalake.html
+  s_c3b3640aa7cabe::t_c5707746f22529 1-269
+skills/cklph-diagram/assets/example-dp-integration-dark.html
+  s_c3b3640aa7cabe::t_36546aa69bf0ed 1-80
+skills/cklph-diagram/assets/example-dp-integration-full.html
+  s_c3b3640aa7cabe::t_ea335e6fa02aaa 1-90
+skills/cklph-diagram/assets/example-dp-integration.html
+  s_c3b3640aa7cabe::t_bf93fa0a7e8b7c 1-80
+skills/cklph-diagram/assets/example-dp-security-matrix-dark.html
+  s_c3b3640aa7cabe::t_a211a1b530ae71 1-31
+skills/cklph-diagram/assets/example-dp-security-matrix-full.html
+  s_c3b3640aa7cabe::t_a3be5cdfbf11b0 1-32
+skills/cklph-diagram/assets/example-dp-security-matrix.html
+  s_c3b3640aa7cabe::t_2d8375372649f6 1-88
+skills/cklph-diagram/assets/example-er-dark.html
+  s_c3b3640aa7cabe::t_c80bb2044480e8 1-202
+skills/cklph-diagram/assets/example-er-full.html
+  s_c3b3640aa7cabe::t_57a7f7aee59b61 1-205
+skills/cklph-diagram/assets/example-er.html
+  s_c3b3640aa7cabe::t_7d3ce9ecee7aee 1-202
+skills/cklph-diagram/assets/example-flowchart-dark.html
+  s_c3b3640aa7cabe::t_2125001007525c 1-156
+skills/cklph-diagram/assets/example-flowchart-full.html
+  s_c3b3640aa7cabe::t_c7579c0015a14c 1-159
+skills/cklph-diagram/assets/example-flowchart.html
+  s_c3b3640aa7cabe::t_6c85a5c3ccecfc 1-156
+skills/cklph-diagram/assets/example-gantt-dark.html
+  s_c3b3640aa7cabe::t_110195dc4106ef 1-137
+skills/cklph-diagram/assets/example-gantt-full.html
+  s_c3b3640aa7cabe::t_3ffcd7f7f928e3 1-127
+skills/cklph-diagram/assets/example-gantt.html
+  s_c3b3640aa7cabe::t_01100f9dfcdb7e 1-137
+skills/cklph-diagram/assets/example-high-level-dark.html
+  s_c3b3640aa7cabe::t_865fe898a92ce6 1-251
+skills/cklph-diagram/assets/example-high-level-full.html
+  s_c3b3640aa7cabe::t_c9627b03200163 1-247
+skills/cklph-diagram/assets/example-high-level-vertical-dark.html
+  s_c3b3640aa7cabe::t_d873a7bbaf2901 1-274
+skills/cklph-diagram/assets/example-high-level-vertical-full.html
+  s_c3b3640aa7cabe::t_892418f5d0c1fe 1-252
+skills/cklph-diagram/assets/example-high-level-vertical.html
+  s_c3b3640aa7cabe::t_9431c41fceb937 1-325
+skills/cklph-diagram/assets/example-high-level.html
+  s_c3b3640aa7cabe::t_af8d2c9ce2c83f 1-301
+skills/cklph-diagram/assets/example-import-drawio.html
+  s_c3b3640aa7cabe::t_4e44db727585e0 1-185
+skills/cklph-diagram/assets/example-import-mermaid.html
+  s_c3b3640aa7cabe::t_cd40734819e219 1-70
+skills/cklph-diagram/assets/example-it-state-dark.html
+  s_c3b3640aa7cabe::t_2d7d67a7941d85 1-90
+skills/cklph-diagram/assets/example-it-state-full.html
+  s_c3b3640aa7cabe::t_c8a54d9e21154e 1-69
+skills/cklph-diagram/assets/example-it-state.html
+  s_c3b3640aa7cabe::t_3cc7db99b70e5b 1-128
+skills/cklph-diagram/assets/example-layers-dark.html
+  s_c3b3640aa7cabe::t_858915e0b10db6 1-123
+skills/cklph-diagram/assets/example-layers-full.html
+  s_c3b3640aa7cabe::t_9e52bf30006626 1-126
+skills/cklph-diagram/assets/example-layers.html
+  s_c3b3640aa7cabe::t_2239e5f1226175 1-123
+skills/cklph-diagram/assets/example-line-dark.html
+  s_c3b3640aa7cabe::t_8e3c61c5ac273f 1-111
+skills/cklph-diagram/assets/example-line-full.html
+  s_c3b3640aa7cabe::t_31ff2772601252 1-105
+skills/cklph-diagram/assets/example-line.html
+  s_c3b3640aa7cabe::t_e1c61a83437614 1-111
+skills/cklph-diagram/assets/example-loop-dark.html
+  s_c3b3640aa7cabe::t_eb11353e72a054 1-100
+skills/cklph-diagram/assets/example-loop-full.html
+  s_c3b3640aa7cabe::t_9d2535f1127fec 1-137
+skills/cklph-diagram/assets/example-loop-terminal.html
+  s_c3b3640aa7cabe::t_1801aa8657b10f 1-347
+skills/cklph-diagram/assets/example-loop.html
+  s_c3b3640aa7cabe::t_030e2640b60f28 1-100
+skills/cklph-diagram/assets/example-medallion-dark.html
+  s_c3b3640aa7cabe::t_9552a7a51a2176 1-159
+skills/cklph-diagram/assets/example-medallion-full.html
+  s_c3b3640aa7cabe::t_e3687bafed33e4 1-201
+skills/cklph-diagram/assets/example-medallion.html
+  s_c3b3640aa7cabe::t_303a8d7e0decd2 1-159
+skills/cklph-diagram/assets/example-nested-dark.html
+  s_c3b3640aa7cabe::t_bdd9b1da6f0720 1-132
+skills/cklph-diagram/assets/example-nested-full.html
+  s_c3b3640aa7cabe::t_a30f57ef87c4be 1-135
+skills/cklph-diagram/assets/example-nested.html
+  s_c3b3640aa7cabe::t_67a44b5511cfdd 1-136
+skills/cklph-diagram/assets/example-org-chart-dark.html
+  s_c3b3640aa7cabe::t_796c0ae6c07d1c 1-45
+skills/cklph-diagram/assets/example-org-chart-full.html
+  s_c3b3640aa7cabe::t_2827008ca17901 1-45
+skills/cklph-diagram/assets/example-org-chart.html
+  s_c3b3640aa7cabe::t_23759aebef0ddd 1-45
+skills/cklph-diagram/assets/example-process-dark.html
+  s_c3b3640aa7cabe::t_3eee303274b263 1-64
+skills/cklph-diagram/assets/example-process-full.html
+  s_c3b3640aa7cabe::t_680448432bacf9 1-74
+skills/cklph-diagram/assets/example-process.html
+  s_c3b3640aa7cabe::t_4d782d2f8c6372 1-64
+skills/cklph-diagram/assets/example-pyramid-dark.html
+  s_c3b3640aa7cabe::t_3357193ee21023 1-119
+skills/cklph-diagram/assets/example-pyramid-full.html
+  s_c3b3640aa7cabe::t_1de0f8045bfd2b 1-122
+skills/cklph-diagram/assets/example-pyramid.html
+  s_c3b3640aa7cabe::t_43a85cf3248253 1-119
+skills/cklph-diagram/assets/example-quadrant-consultant.html
+  s_c3b3640aa7cabe::t_27d498da704aa9 1-166
+skills/cklph-diagram/assets/example-quadrant-dark.html
+  s_c3b3640aa7cabe::t_f49ef27db93312 1-135
+skills/cklph-diagram/assets/example-quadrant-full.html
+  s_c3b3640aa7cabe::t_22a02e2a6a5550 1-138
+skills/cklph-diagram/assets/example-quadrant.html
+  s_c3b3640aa7cabe::t_11b7af0afb7ecc 1-135
+skills/cklph-diagram/assets/example-radar-dark.html
+  s_c3b3640aa7cabe::t_9e10692beed60c 1-139
+skills/cklph-diagram/assets/example-radar-full.html
+  s_c3b3640aa7cabe::t_3e0102d82d1225 1-135
+skills/cklph-diagram/assets/example-radar.html
+  s_c3b3640aa7cabe::t_edd8a21e88d549 1-139
+skills/cklph-diagram/assets/example-scatter-dark.html
+  s_c3b3640aa7cabe::t_aabd0f8f7a50cf 1-141
+skills/cklph-diagram/assets/example-scatter-full.html
+  s_c3b3640aa7cabe::t_0530a7e9c99bc7 1-116
+skills/cklph-diagram/assets/example-scatter.html
+  s_c3b3640aa7cabe::t_ab2673675fa312 1-141
+skills/cklph-diagram/assets/example-sequence-dark.html
+  s_c3b3640aa7cabe::t_437136f0e229a3 1-222
+skills/cklph-diagram/assets/example-sequence-full.html
+  s_c3b3640aa7cabe::t_26b8e6ce85081e 1-388
+skills/cklph-diagram/assets/example-sequence-oauth-dark.html
+  s_c3b3640aa7cabe::t_44c54e64c62688 1-188
+skills/cklph-diagram/assets/example-sequence-oauth-full.html
+  s_c3b3640aa7cabe::t_93946aaddc95d9 1-350
+skills/cklph-diagram/assets/example-sequence-oauth.html
+  s_c3b3640aa7cabe::t_8b9cb41042d083 1-227
+skills/cklph-diagram/assets/example-sequence.html
+  s_c3b3640aa7cabe::t_7092a0fe6f21a6 1-222
+skills/cklph-diagram/assets/example-state-dark.html
+  s_c3b3640aa7cabe::t_4b34d9e9127df0 1-147
+skills/cklph-diagram/assets/example-state-full.html
+  s_c3b3640aa7cabe::t_c8e6170ab4e20c 1-150
+skills/cklph-diagram/assets/example-state.html
+  s_c3b3640aa7cabe::t_b71370a60e282f 1-147
+skills/cklph-diagram/assets/example-swimlane-dark.html
+  s_c3b3640aa7cabe::t_f1caffabe411c0 1-172
+skills/cklph-diagram/assets/example-swimlane-full.html
+  s_c3b3640aa7cabe::t_6408bda5137948 1-175
+skills/cklph-diagram/assets/example-swimlane.html
+  s_c3b3640aa7cabe::t_59cdb7403f62d5 1-172
+skills/cklph-diagram/assets/example-timeline-dark.html
+  s_c3b3640aa7cabe::t_2d60bee9f2b3f5 1-135
+skills/cklph-diagram/assets/example-timeline-full.html
+  s_c3b3640aa7cabe::t_15ff72c5ce88e9 1-138
+skills/cklph-diagram/assets/example-timeline.html
+  s_c3b3640aa7cabe::t_8421e17a816f25 1-135
+skills/cklph-diagram/assets/example-tree-dark.html
+  s_c3b3640aa7cabe::t_67516e157baca3 1-173
+skills/cklph-diagram/assets/example-tree-full.html
+  s_c3b3640aa7cabe::t_82447ab2470be2 1-176
+skills/cklph-diagram/assets/example-tree.html
+  s_c3b3640aa7cabe::t_607e2125c3aacc 1-173
+skills/cklph-diagram/assets/example-venn-dark.html
+  s_c3b3640aa7cabe::t_540469f1760328 1-132
+skills/cklph-diagram/assets/example-venn-full.html
+  s_c3b3640aa7cabe::t_ffddef93a72056 1-135
+skills/cklph-diagram/assets/example-venn.html
+  s_c3b3640aa7cabe::t_d7306b2eb10281 1-110
+skills/cklph-diagram/assets/icons.html
+  s_c3b3640aa7cabe::t_70ff31111663e8 1-230
+skills/cklph-diagram/assets/index.html
+  s_c3b3640aa7cabe::t_2eccf8db609460 1-333
+skills/cklph-diagram/assets/template-dark.html
+  s_c3b3640aa7cabe::t_42277dacb576f8 1-129
+skills/cklph-diagram/assets/template-full.html
+  s_c3b3640aa7cabe::t_edc9240b60ac1a 1-451
+skills/cklph-diagram/assets/template-terminal.html
+  s_c3b3640aa7cabe::t_4b2be32c87eb1d 1-173
+skills/cklph-diagram/assets/template.html
+  s_c3b3640aa7cabe::t_83744d63f30d50 1-130
+skills/cklph-diagram/references/accessibility.md
+  s_df642727960843::t_c6de517815c10b 1-142
+skills/cklph-diagram/references/brands/_default.md
+  s_df642727960843::t_85e550462418cd 1-91
+skills/cklph-diagram/references/brands/_template.md
+  s_df642727960843::t_080e156378705b 1-92
+skills/cklph-diagram/references/brands/cklph.md
+  s_df642727960843::t_4c298efe84f661 1-124
+skills/cklph-diagram/references/cognitive-load.md
+  s_df642727960843::t_a440b90675dff8 1-112
+skills/cklph-diagram/references/design-thesis.md
+  s_df642727960843::t_ffc32cd58b4450 1-49
+skills/cklph-diagram/references/export.md
+  s_df642727960843::t_2ba9f5254f6e7a 1-136
+skills/cklph-diagram/references/import-mermaid.md
+  s_c3b3640aa7cabe::t_90a7b952df3600 1-126
+skills/cklph-diagram/references/onboarding.md
+  s_c3b3640aa7cabe::t_aca78e45724a8b 1-294
+skills/cklph-diagram/references/output-spec.md
+  s_df642727960843::t_cb2050f2bbf580 1-181
+skills/cklph-diagram/references/primitive-annotation.md
+  s_c3b3640aa7cabe::t_46cb5438106f01 1-36
+skills/cklph-diagram/references/primitive-icons.md
+  s_df642727960843::t_6fb22dc9effb5d 1-827
+skills/cklph-diagram/references/primitive-sketchy.md
+  s_df642727960843::t_60a9a2ed9adde8 1-43
+skills/cklph-diagram/references/primitive-terminal.md
+  s_c3b3640aa7cabe::t_1c6c80929c2028 1-76
+skills/cklph-diagram/references/prose-alternative.md
+  s_df642727960843::t_2ce6857c1e7f57 1-51
+skills/cklph-diagram/references/style-guide.md
+  s_df642727960843::t_884f4c0976b494 1-60
+skills/cklph-diagram/references/type-architecture.md
+  s_df642727960843::t_bde70a265df211 1-78
+skills/cklph-diagram/references/type-bar.md
+  s_df642727960843::t_90bb7589c2d142 1-48
+skills/cklph-diagram/references/type-data-flow.md
+  s_df642727960843::t_864a3db8776014 1-374
+skills/cklph-diagram/references/type-dp-integration.md
+  s_df642727960843::t_7c55a927f4b697 1-410
+skills/cklph-diagram/references/type-dp-security-matrix.md
+  s_df642727960843::t_cdb3b95102aa41 1-379
+skills/cklph-diagram/references/type-er.md
+  s_df642727960843::t_ae36dadaa559cf 1-23
+skills/cklph-diagram/references/type-flowchart.md
+  s_df642727960843::t_86b10dc54d684b 1-23
+skills/cklph-diagram/references/type-gantt.md
+  s_df642727960843::t_a2e00d4e66f4f8 1-45
+skills/cklph-diagram/references/type-high-level.md
+  s_df642727960843::t_64d2c8e7355424 1-458
+skills/cklph-diagram/references/type-it-state.md
+  s_df642727960843::t_24d7952f8d55a9 1-470
+skills/cklph-diagram/references/type-layers.md
+  s_c3b3640aa7cabe::t_5b648602dd1879 1-26
+skills/cklph-diagram/references/type-line.md
+  s_df642727960843::t_e130a5caa78b8d 1-44
+skills/cklph-diagram/references/type-loop.md
+  s_df642727960843::t_dbd6682c185263 1-223
+skills/cklph-diagram/references/type-medallion.md
+  s_c3b3640aa7cabe::t_e452f1a26bcf0d 1-356
+skills/cklph-diagram/references/type-nested.md
+  s_df642727960843::t_6086653816f15f 1-22
+skills/cklph-diagram/references/type-org-chart.md
+  s_df642727960843::t_55af9cad75f069 1-44
+skills/cklph-diagram/references/type-process.md
+  s_df642727960843::t_608ffec53e54df 1-495
+skills/cklph-diagram/references/type-pyramid.md
+  s_df642727960843::t_d9fe96f7c84802 1-33
+skills/cklph-diagram/references/type-quadrant.md
+  s_df642727960843::t_28140ee46a2a98 1-81
+skills/cklph-diagram/references/type-radar.md
+  s_df642727960843::t_58480221804ea3 1-80
+skills/cklph-diagram/references/type-scatter.md
+  s_df642727960843::t_9863483c0fbae1 1-39
+skills/cklph-diagram/references/type-sequence.md
+  s_df642727960843::t_7d460a7e18e989 1-130
+skills/cklph-diagram/references/type-state.md
+  s_df642727960843::t_2a0d685ae07aad 1-21
+skills/cklph-diagram/references/type-swimlane.md
+  s_df642727960843::t_bac60e8482e93c 1-20
+skills/cklph-diagram/references/type-timeline.md
+  s_df642727960843::t_16d29ad873731b 1-20
+skills/cklph-diagram/references/type-tree.md
+  s_df642727960843::t_2979b97a572b98 1-24
+skills/cklph-diagram/references/type-venn.md
+  s_df642727960843::t_f194d8bdb17ba5 1-26
+skills/cklph-diagram/scripts/colorlib.py
+  s_c3b3640aa7cabe::t_6e000334d7fc25 1-220
+skills/cklph-diagram/scripts/drawio_extract.py
+  s_c3b3640aa7cabe::t_ffa9fd094e7ec0 1-856
+skills/cklph-diagram/scripts/lint-a11y.py
+  s_c3b3640aa7cabe::t_a4411e28143a96 1-372
+skills/cklph-diagram/scripts/mermaid_extract.py
+  s_c3b3640aa7cabe::t_bd4d30b3e0eeb0 1-1285
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "0ba75790a5aba09ee372583075140354e54d7668",
+  "prompts": {},
+  "sessions": {
+    "s_c3b3640aa7cabe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d54f4092-1c28-43b9-b5b5-2288e975bfc7",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Peter Krzyzek <peter@chykalophia.com>"
+    },
+    "s_df642727960843": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a6a8db53-f9ae-471b-a955-5e4a617ea9a5",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Peter Krzyzek <peter@chykalophia.com>"
+    }
+  }
+}
