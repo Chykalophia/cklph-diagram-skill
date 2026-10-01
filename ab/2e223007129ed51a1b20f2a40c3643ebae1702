@@ -1,0 +1,390 @@
+skills/cklph-diagram/assets/example-dependency-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-227
+skills/cklph-diagram/assets/example-architecture-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 104-105,107-108
+skills/cklph-diagram/assets/example-deployment.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-190
+skills/cklph-diagram/assets/example-nested.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 6,59,62-63,123
+skills/cklph-diagram/references/type-story-map.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-46
+skills/cklph-diagram/assets/example-paved-road-animated.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-546
+skills/cklph-diagram/assets/example-bump.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-142
+skills/cklph-diagram/assets/example-state-lifecycle-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-112
+skills/cklph-diagram/references/type-sankey.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-72
+skills/cklph-diagram/scripts/excalidraw_extract.py
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-706
+skills/cklph-diagram/scripts/drawio_extract.py
+  s_a5012895f32d9b::t_8bf958c87ecdf5 15,46-52,176,468-469,684-700,715,719-722,728,751-754,757-759,761-763,765-767,771-775,785-787,808-810,896
+skills/cklph-diagram/scripts/self_check.py
+  s_a5012895f32d9b::t_e20b34fb9e7431 12
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-11,13-227,236-470
+  s_a5012895f32d9b::t_380adb05fa29b2 228-235
+skills/cklph-diagram/assets/example-ridgeline-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-104
+skills/cklph-diagram/scripts/export_svg.py
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-30,35-251,268,270,272-384,386-399,401-437
+  s_a5012895f32d9b::t_311b90e1943d51 400
+  s_a5012895f32d9b::t_30436507d8f2ac 31-34,252-267,269,271,385
+commands/import-mermaid.md
+  s_a5012895f32d9b::t_311b90e1943d51 26
+  s_a5012895f32d9b::t_7082670e06d90e 25,31
+skills/cklph-diagram/assets/example-bubble-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-177
+skills/cklph-diagram/assets/template-terminal.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 112,115-127,145-169,171-176,178,180-184
+skills/cklph-diagram/references/type-uml-class.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-65
+skills/cklph-diagram/assets/example-bump-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-172
+scripts/self_check.py
+  s_a5012895f32d9b::t_ad4df0992b7604 1-11
+skills/cklph-diagram/scripts/brand-tokens.py
+  s_a5012895f32d9b::t_e16acd80e41ae1 16-25,106-175,405-408,411-427
+  s_a5012895f32d9b::t_9bafae57b3a0fc 428
+skills/cklph-diagram/assets/example-kanban-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-174
+skills/cklph-diagram/assets/example-streamgraph.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-99
+skills/cklph-diagram/assets/example-state-lifecycle-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-88
+skills/cklph-diagram/references/animation.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-117,121,127-146
+  s_a5012895f32d9b::t_855fbc967183dc 118-120,122-126
+skills/cklph-diagram/references/type-line.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 40-319,325-336
+skills/cklph-diagram/references/type-scatter.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 29,32,35-186,192-197
+skills/cklph-diagram/assets/example-sankey-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-151
+commands/export-diagram.md
+  s_a5012895f32d9b::t_b320ca85deeaf3 3,12,18,20,28,37-38
+skills/cklph-diagram/assets/example-ridgeline.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-104
+prompts/export-diagram.md
+  s_a5012895f32d9b::t_b320ca85deeaf3 3,6,12,14,22,32-33
+skills/cklph-diagram/assets/example-architecture-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 94-95,97-98
+skills/cklph-diagram/assets/example-flowchart.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 125,127
+skills/cklph-diagram/references/type-tree.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 3
+skills/cklph-diagram/assets/example-story-map-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-188
+skills/cklph-diagram/assets/example-streamgraph-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-129
+skills/cklph-diagram/assets/example-wardley.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-153
+skills/cklph-diagram/references/primitives-core.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-6,13-17,19-25,27-28,30-38,40-41,43-44,46-50,54-87,105-111,116-129,137-138,140-152
+  s_a5012895f32d9b::t_ef868c388deaa3 7-12,18,26,29,39,42,45,51-53,88-104,112-115,130-136,139
+skills/cklph-diagram/references/import-drawio.md
+  s_a5012895f32d9b::t_311b90e1943d51 9
+skills/cklph-diagram/references/type-fishbone.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-75
+skills/cklph-diagram/assets/example-heatmap-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-224
+scripts/verify-export.py
+  s_a5012895f32d9b::t_25ec4057eb87f8 1-75
+skills/cklph-diagram/references/type-high-level.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 423,433,459-461
+skills/cklph-diagram/assets/example-deployment-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-202
+skills/cklph-diagram/assets/template-motion.html
+  s_a5012895f32d9b::t_d26dbd00e95a16 228-235,245,290-304
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-6,8-9,64-76,79-83,85-88,90-115,117-145,147-153,155,158-160,162,164-168,170-184,186-227,236-244,246-249,251-252,254-255,259-260,264-265,269-270,275-276,280-281,283-286,288-289,305-516
+  s_a5012895f32d9b::t_3360d517e66d22 7,10-63,77-78,84,89,116,146,154,156-157,161,163,169,185,250,253,256-258,261-263,266-268,271-274,277-279,282,287
+skills/cklph-diagram/assets/example-dependency-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-224
+skills/cklph-diagram/assets/example-waterfall.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-129
+skills/cklph-diagram/assets/example-queue-animated.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-577
+skills/cklph-diagram/references/type-er.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 3-5
+skills/cklph-diagram/assets/example-kanban-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-178
+skills/cklph-diagram/assets/example-story-map.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-184
+skills/cklph-diagram/assets/example-line-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 10,32
+skills/cklph-diagram/assets/example-flowchart-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 125,127
+skills/cklph-diagram/references/type-dependency.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-44
+skills/cklph-diagram/SKILL.md
+  s_a5012895f32d9b::t_25b9693a334b51 234
+  s_a5012895f32d9b::t_745c0761404720 6-7,14,24-29,147,160-176,178,183,192-193,200-204,206,213-222,227,230-233,260,262,300,322-323,332,338,340,342-343,347,349-354,360,366,368,370,372,374,380,390-392,394,403,415-416,423,444-450,453-457,465,476-483,485,487,491-496,500,502,506-508,515,520,524,532,534,536,540-547,549,553-557,559-590
+  s_a5012895f32d9b::t_ae19bdb5ff81d2 44,50-55,66-101,112-113,414
+  s_a5012895f32d9b::t_ec9a8bb45eb1d5 3
+skills/cklph-diagram/references/import-mermaid.md
+  s_a5012895f32d9b::t_7082670e06d90e 23,109
+skills/cklph-diagram/assets/example-journey.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-148
+skills/cklph-diagram/references/type-wardley.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-39
+skills/cklph-diagram/references/type-bar.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 3,43-100
+skills/cklph-diagram/assets/example-beeswarm-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-384
+skills/cklph-diagram/assets/example-fishbone-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-152
+skills/cklph-diagram/assets/example-slopegraph.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-119
+skills/cklph-diagram/assets/example-heatmap-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-270
+NOTICE
+  s_a5012895f32d9b::t_f167e62e2bdca5 8,15-19
+skills/cklph-diagram/references/type-waterfall.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-74
+skills/cklph-diagram/references/layout-budget.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-8,10-64,66-67,70-87,90-91
+  s_a5012895f32d9b::t_bc5cbfcdea7925 9,65,68-69,88-89,92
+skills/cklph-diagram/assets/example-waterfall-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-106
+skills/cklph-diagram/references/style-guide.md
+  s_a5012895f32d9b::t_8b0bfbdc6cdcad 127-129
+  s_a5012895f32d9b::t_8449b245a3c5c3 13-15,62-126,130-139
+skills/cklph-diagram/assets/example-policy-trace-animated.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-490
+skills/cklph-diagram/assets/example-swimlane-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 106-107
+skills/cklph-diagram/assets/example-fishbone.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-152
+skills/cklph-diagram/assets/example-bump-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-142
+skills/cklph-diagram/references/type-polar.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-136
+skills/cklph-diagram/assets/example-marimekko.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-148
+skills/cklph-diagram/assets/example-sankey.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-150
+skills/cklph-diagram/assets/example-streamgraph-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-99
+prompts/import-excalidraw.md
+  s_a5012895f32d9b::t_b24c270955c90b 1-5,7-14
+  s_a5012895f32d9b::t_a970f3c1befa9a 6
+skills/cklph-diagram/assets/example-journey-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-148
+scripts/verify.sh
+  s_a5012895f32d9b::t_de718f56ee730f 110-112
+  s_a5012895f32d9b::t_d78cb47ad5b9fb 78,80-109,113-114,116-123
+  s_a5012895f32d9b::t_376e9336f863ed 124-127
+  s_a5012895f32d9b::t_7d7455bb84d0ad 115
+skills/cklph-diagram/assets/example-journey-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-142
+skills/cklph-diagram/references/semantic-patterns.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-154
+skills/cklph-diagram/assets/example-db-schema-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-302
+skills/cklph-diagram/assets/example-uml-class-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-191
+skills/cklph-diagram/references/export-registry.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-8,10-78
+  s_a5012895f32d9b::t_311b90e1943d51 9
+skills/cklph-diagram/scripts/mermaid_extract.py
+  s_a5012895f32d9b::t_8bf958c87ecdf5 35-38,58-64,412-418,433-444,446-448,627-634,636-646,649-658,660-664,667,669,676,805-808,810-812,814-816,827-839,842-843,875-887,892-897,900,1377
+skills/cklph-diagram/assets/example-ridgeline-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-134
+skills/cklph-diagram/assets/example-beeswarm.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-384
+skills/cklph-diagram/assets/example-flowchart-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 106,108
+skills/cklph-diagram/assets/example-slopegraph-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-119
+skills/cklph-diagram/assets/example-wardley-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-153
+skills/cklph-diagram/assets/example-heatmap.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-224
+skills/cklph-diagram/assets/template.html
+  s_a5012895f32d9b::t_e0453ae1e651dd 76-79,101-109,126,128-130,134-137,139-141,144,146,148-149
+  s_a5012895f32d9b::t_3df71714a04b9d 131-133,138,143
+  s_a5012895f32d9b::t_d26dbd00e95a16 110-117,127,151-164
+skills/cklph-diagram/assets/example-story-map-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-184
+commands/import-drawio.md
+  s_a5012895f32d9b::t_7082670e06d90e 25,31
+  s_a5012895f32d9b::t_311b90e1943d51 26
+skills/cklph-diagram/references/type-process.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 391,393,464,470,472
+skills/cklph-diagram/assets/example-slopegraph-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-149
+skills/cklph-diagram/assets/example-import-excalidraw.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-70
+skills/cklph-diagram/references/type-nested.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 3
+skills/cklph-diagram/assets/example-nested-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 6,59,62-63,119
+skills/cklph-diagram/assets/example-tree-block-decomposition.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-151
+skills/cklph-diagram/assets/example-fishbone-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-146
+skills/cklph-diagram/assets/example-treemap-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-134
+skills/cklph-diagram/assets/index.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 117-120,165-177,210,223-225,259-261,263,266,269-272,275,278,281-287,290,293,296,299,302,305-326,329,332-392,399,422-441,445-449,454-466,470-488
+skills/cklph-diagram/references/output-spec.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 53,57-104,123-162,225,234-236,239,265-266
+skills/cklph-diagram/assets/example-polar.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-116
+scripts/verify-motion.py
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-13,15-527
+  s_a5012895f32d9b::t_e20b34fb9e7431 14
+skills/cklph-diagram/assets/example-sankey-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-150
+skills/cklph-diagram/assets/example-db-schema.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-302
+skills/cklph-diagram/assets/example-dependency.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-224
+skills/cklph-diagram/assets/example-architecture.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 105-106,108-109
+skills/cklph-diagram/references/export.md
+  s_a5012895f32d9b::t_311b90e1943d51 9
+  s_a5012895f32d9b::t_8bf958c87ecdf5 23-25,31-40,47-57,60-63,66-85,93,105-107,128-132,138-139,180
+skills/cklph-diagram/assets/example-wardley-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-146
+README.md
+  s_a5012895f32d9b::t_f167e62e2bdca5 7-8,121-124,132-136,150-153,162-164
+  s_a5012895f32d9b::t_a57cccc4c0d9a2 18
+skills/cklph-diagram/assets/example-beeswarm-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-416
+skills/cklph-diagram/references/type-state.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 3-9,28-30
+CHANGELOG.md
+  s_a5012895f32d9b::t_f167e62e2bdca5 11-39,47-67
+  s_a5012895f32d9b::t_a57cccc4c0d9a2 40-46
+skills/cklph-diagram/assets/example-marimekko-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-172
+skills/cklph-diagram/references/type-deployment.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-45
+skills/cklph-diagram/references/type-it-state.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 468
+skills/cklph-diagram/assets/example-treemap-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-107
+skills/cklph-diagram/references/type-sequence.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 90
+FORK-NOTES.md
+  s_a5012895f32d9b::t_6c492fae185fb4 3-5,56-111,113-122,144-146,231-232,235-240,243,253-256,265-266
+  s_a5012895f32d9b::t_4352a9e5719c18 22-27,44-45
+  s_a5012895f32d9b::t_a57cccc4c0d9a2 112,123-143
+skills/cklph-diagram/assets/example-waterfall-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-129
+skills/cklph-diagram/assets/example-swimlane-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 87-88
+skills/cklph-diagram/assets/example-polar-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-147
+skills/cklph-diagram/assets/example-deployment-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-190
+skills/cklph-diagram/assets/example-bubble-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-147
+skills/cklph-diagram/assets/example-nested-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 6,37-38,43-44,100,117,130
+skills/cklph-diagram/assets/template-dark.html
+  s_a5012895f32d9b::t_d26dbd00e95a16 110-117,127,150-163
+  s_a5012895f32d9b::t_3df71714a04b9d 131-133,138,143
+  s_a5012895f32d9b::t_e0453ae1e651dd 76-79,101-109,126,128-130,134-137,139-141,145,147-148
+skills/cklph-diagram/assets/example-tree-block-decomposition-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-151
+skills/cklph-diagram/references/type-kanban.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-49
+skills/cklph-diagram/assets/example-marimekko-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-148
+scripts/test-brand-marker.py
+  s_a5012895f32d9b::t_66095571686c5b 1-123
+skills/cklph-diagram/references/brand-onboarding.md
+  s_a5012895f32d9b::t_d2e383d860b935 88-97
+skills/cklph-diagram/assets/example-polar-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-116
+skills/cklph-diagram/assets/example-kanban.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-174
+skills/cklph-diagram/references/type-heatmap.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-72
+skills/cklph-diagram/assets/example-tree-block-decomposition-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-154
+skills/cklph-diagram/references/type-journey.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-53
+skills/cklph-diagram/assets/example-bubble.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-147
+commands/import-excalidraw.md
+  s_a5012895f32d9b::t_a970f3c1befa9a 46
+  s_a5012895f32d9b::t_b24c270955c90b 1-45,47-50
+skills/cklph-diagram/assets/example-uml-class.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-188
+skills/cklph-diagram/assets/example-import-drawio.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 90,92,94,108-109,140-143
+skills/cklph-diagram/references/import-excalidraw.md
+  s_a5012895f32d9b::t_69856f0e90d1da 21
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-8,10-20,22-128
+  s_a5012895f32d9b::t_311b90e1943d51 9
+skills/cklph-diagram/references/type-treemap.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-128
+skills/cklph-diagram/assets/template-full.html
+  s_a5012895f32d9b::t_922406e62603e9 255
+  s_a5012895f32d9b::t_3df71714a04b9d 241,247,252,257,263
+  s_a5012895f32d9b::t_e0453ae1e651dd 121-129
+  s_a5012895f32d9b::t_d26dbd00e95a16 210-217,233,417-430
+  s_a5012895f32d9b::t_d641ad3baa0066 431
+scripts/verify-geometry.py
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-29,31-40,42-169
+  s_a5012895f32d9b::t_e20b34fb9e7431 30,41
+skills/cklph-diagram/references/type-db-schema.md
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-48
+skills/cklph-diagram/assets/example-treemap.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-107
+skills/cklph-diagram/assets/example-uml-class-dark.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-188
+skills/cklph-diagram/assets/example-state-lifecycle.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-92
+skills/cklph-diagram/assets/example-swimlane.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 106-107
+skills/cklph-diagram/assets/example-db-schema-full.html
+  s_a5012895f32d9b::t_8bf958c87ecdf5 1-305
+scripts/verify-beeswarm.py
+  s_a5012895f32d9b::t_a10bb0789f37eb 1-939
+scripts/verify-block-registry.py
+  s_a5012895f32d9b::t_b9390ed184ed8a 1-229
+scripts/verify-bubble.py
+  s_a5012895f32d9b::t_92475fcff9804c 1-980
+scripts/verify-bump.py
+  s_a5012895f32d9b::t_8db0efc92a1f4d 1-875
+scripts/verify-dumbbell.py
+  s_a5012895f32d9b::t_5fb7c8f641c4a0 1-279
+scripts/verify-heatmap.py
+  s_a5012895f32d9b::t_7defcd57e341ae 1-531
+scripts/verify-marimekko.py
+  s_a5012895f32d9b::t_eaf93b92e50e43 1-1117
+scripts/verify-polar.py
+  s_a5012895f32d9b::t_ef671fc9985a2f 1-802
+scripts/verify-ridgeline.py
+  s_a5012895f32d9b::t_7dddf97c0c3930 1-1194
+scripts/verify-sankey.py
+  s_a5012895f32d9b::t_1546473e751d63 1-1342
+scripts/verify-slopegraph.py
+  s_a5012895f32d9b::t_38099f52e6146e 1-976
+scripts/verify-streamgraph.py
+  s_a5012895f32d9b::t_a30db86df6c03e 1-1045
+scripts/verify-treemap.py
+  s_a5012895f32d9b::t_aea25bf6e1d2a1 1-521
+scripts/verify-waterfall.py
+  s_a5012895f32d9b::t_a9b49ebe6dc306 1-535
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ab2e223007129ed51a1b20f2a40c3643ebae1702",
+  "prompts": {},
+  "sessions": {
+    "s_a5012895f32d9b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ca0d032d-eb8e-4881-9843-0a00419d4a06",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Peter Krzyzek <peter@chykalophia.com>"
+    }
+  }
+}
