@@ -1,0 +1,21 @@
+install.sh
+  s_a5012895f32d9b::t_8c77768dfb3be9 96-106,109
+CHANGELOG.md
+  s_a5012895f32d9b::t_9ab815a1cb85ce 11-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9134cb10eed611feafe75a5ef4cf6d63dbc018bc",
+  "prompts": {},
+  "sessions": {
+    "s_a5012895f32d9b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ca0d032d-eb8e-4881-9843-0a00419d4a06",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Peter Krzyzek <peter@chykalophia.com>"
+    }
+  }
+}
