@@ -1,0 +1,43 @@
+skills/cklph-diagram/SKILL.md
+  s_a5012895f32d9b::t_8a18b91181ea4e 6
+  s_a5012895f32d9b::t_2be645b68fe903 353,443-444
+CHANGELOG.md
+  s_a5012895f32d9b::t_8a18b91181ea4e 11-35
+scripts/test-check.py
+  s_a5012895f32d9b::t_4730e8ceef5bc4 96-110,141,145-150,181-187,191-217,221-227
+  s_a5012895f32d9b::t_606bcc90635f05 142-143
+  s_a5012895f32d9b::t_d093d24d2df697 144
+scripts/build-examples.py
+  s_a5012895f32d9b::t_2f0b417bc03dfa 284
+  s_a5012895f32d9b::t_8a18b91181ea4e 44
+FORK-NOTES.md
+  s_a5012895f32d9b::t_8a18b91181ea4e 4,171-177
+skills/cklph-diagram/scripts/browser_check.py
+  s_a5012895f32d9b::t_606bcc90635f05 88-90,92-94,97-117,192-197
+skills/cklph-diagram/references/layout-budget.md
+  s_a5012895f32d9b::t_2be645b68fe903 63-100
+skills/cklph-diagram/references/diagram-source.md
+  s_a5012895f32d9b::t_8a18b91181ea4e 59
+  s_a5012895f32d9b::t_2be645b68fe903 103,140-141
+skills/cklph-diagram/references/primitives-core.md
+  s_a5012895f32d9b::t_2be645b68fe903 70
+skills/cklph-diagram/scripts/diagram_source.py
+  s_a5012895f32d9b::t_2f0b417bc03dfa 361-487
+  s_a5012895f32d9b::t_77e33a1087a48f 258,353-360,488-544
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "15fc0992419a072c613c57eb6197635483d58503",
+  "prompts": {},
+  "sessions": {
+    "s_a5012895f32d9b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ca0d032d-eb8e-4881-9843-0a00419d4a06",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Peter Krzyzek <peter@chykalophia.com>"
+    }
+  }
+}
