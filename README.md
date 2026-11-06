@@ -1,5 +1,12 @@
 # CKLPH Diagram
 
+> [!IMPORTANT]
+> **This repo has moved.** The plugin now lives in
+> [`Chykalophia/cklph-marketplace`](https://github.com/Chykalophia/cklph-marketplace/tree/main/plugins/cklph-diagram)
+> at `plugins/cklph-diagram/`, with this repo's full history. Make changes there.
+> Installs are unchanged: `/plugin install cklph-diagram@cklph-private`.
+> This repo is kept read-only for old links.
+
 A Chykalophia fork of [`cathrynlavery/diagram-design`](https://github.com/cathrynlavery/diagram-design)
 (MIT), turning a single-skin personal diagramming skill into a multi-brand
 agency tool with mechanically enforced accessibility.
